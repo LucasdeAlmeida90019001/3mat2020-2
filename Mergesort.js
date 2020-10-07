@@ -1,5 +1,3 @@
-Merge Sort
-
 	/*
 		    Parâmetros:
 		    1) O vetor onde será feita a busca
